@@ -30,3 +30,7 @@
     - Coursera - https://www.coursera.org/
     - Udemy - https://www.udemy.com/
     - EDX - https://www.edx.org/
+
+### References for coding style
+- Refer to google coding style guide of specific programming language
+- Java - https://google.github.io/styleguide/javaguide.html
