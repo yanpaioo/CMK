@@ -34,3 +34,11 @@
 ### References for coding style
 - Refer to google coding style guide of specific programming language
 - Java - https://google.github.io/styleguide/javaguide.html
+
+### Basic Linux commands for beginners
+- https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners
+
+### Cloud computing for beginners (AWS)
+- https://www.youtube.com/watch?v=kQnNd-DyrpA
+- AWS offers a free instance (t2.micro)
+
