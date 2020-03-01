@@ -37,6 +37,7 @@
 
 ### Basic Linux commands for beginners
 - https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners
+- Most linux commands work in Macbook terminals
 
 ### Cloud computing for beginners (AWS)
 - https://www.youtube.com/watch?v=kQnNd-DyrpA
